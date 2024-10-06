@@ -2,7 +2,7 @@
 
 ## FreshPC
 
-This script cleans up junk files and also frees up RAM memory improving Windows performance and speed.
+This script cleans junk files to improve Windows performance and speed.
 
 ## SoftwareUpdater
 
